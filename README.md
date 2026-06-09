@@ -1,4 +1,4 @@
-# 📊 OTC Collateral Manager
+#  OTC Collateral Manager
 
 A Python-based simulation of an OTC derivatives collateral 
 management system, as used in bank Middle Office operations.
@@ -46,5 +46,3 @@ pip install -r requirements.txt
 ## Author
 
 **Maël RAMET**
-Master Finance de Marché — Université Lyon 2
-[LinkedIn](https://linkedin.com/in/maelramet)
